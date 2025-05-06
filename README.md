@@ -1,5 +1,6 @@
 # Projeto Responsive Header
 Este é um projeto, desenvolvido com **HTML**, **CSS** e **JavaScript** 
+<br>
 Aprimoramento na responsividade, onde ao diminuir a tela, ativará o Menu no Header.
 
 ## 🔥 Visual do Projeto
